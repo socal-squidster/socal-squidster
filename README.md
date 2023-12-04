@@ -2,7 +2,7 @@
 - 👀 I’m interested in motorcycles and posting on social media.
 - 🌱 I’m currently learning how to lane filter!
 - 💞️ I’m looking to collaborate on media projects.
-- 📫 How to reach me: find me on YouTube! 
+- 📫 How to reach me: find me on YouTube! https://www.youtube.com/@thesquidster2707
 
 <!---
 socal-squidster/socal-squidster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
